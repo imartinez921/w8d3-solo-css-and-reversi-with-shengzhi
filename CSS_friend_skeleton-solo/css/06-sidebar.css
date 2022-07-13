@@ -1,0 +1,34 @@
+/* PHASE 0: Sidebar */
+
+.profile-picture {
+    display: block;
+    /* width: 220px; */
+    /* height: 220px; */
+    position: relative;
+    margin-top: -140px;
+    border: 5px solid black;
+    
+    
+}
+
+.profile-info {
+    display: block;
+    position: relative;
+
+
+    
+}
+
+.profile-nav {
+    font-weight: 600;
+    display: block;
+    position: relative;
+
+
+}
+
+
+a:hover {
+    color: green;
+    text-decoration: underline overline;
+  }
